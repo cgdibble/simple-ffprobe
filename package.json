@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/cgdibble/simple-ffprobe#readme",
   "dependencies": {
+    "co": "^4.6.0",
+    "consistent-failables": "^1.0.5",
     "executive": "^1.2.7"
   },
   "devDependencies": {

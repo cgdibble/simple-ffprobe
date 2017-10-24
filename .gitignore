@@ -1,6 +1,11 @@
 # My additions:
 .npmrc
+*.mp4
+*.m3u8
+*.ts
 
+
+################################
 # Logs
 logs
 *.log
